@@ -1,11 +1,5 @@
 ### <img align="right" src="https://github-readme-stats.vercel.app/api?username=joway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-git clone https://github.com/songquanpeng/stats-cards.git
-cd stats-cards
-npm i
-node ./app.js
-# or
-pm2 start ./app.js --name stats-cards
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
